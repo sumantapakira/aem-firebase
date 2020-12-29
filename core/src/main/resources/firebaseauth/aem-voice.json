@@ -1,10 +1,10 @@
 {
   "type": "service_account",
   "project_id": "aem-voice",
-  "private_key_id": "e85385cc68a0599ec42a316fe6a4625739a1c496",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDhKrR4pN6IJbdT\n2teTCK340JUTKLrIcyxrjcJu1qPkx2NklR/GG8l0NKgUwvC+pO8PHHGY+a/a2VOp\nEepXvKM2JlgyPlc0Shot8dkvBMJ0Efhy5/iWPgbfLQX573WwAAVRPAsdQ+STadl1\n2UC1Dh7w8L7bKckUoV89SnQbNHhrCBWsw/aTWXm9TTDnkdAmD8JpQINexBz23MDD\ncx1f6hlvFHWWKlMxme4Cu6yTp9IBC4zDXUm4E8Lu9Ow1+JXC2NL2YKvl0Nks4QPA\nNVUxdLbErZbeRBYArbm/EJnHtgchI8YxcpxYksdh/yuTlgKQ9NMnvFI7o9c7yr2L\nOb4n5EhTAgMBAAECggEAO9RjG+ODFd4ftnJh8bnOsFyMIAkkiHrCBNooHdd+uR2Z\n9XICfVuIzg3n04xw99dPhk5iiOlfpuE0b6pJAIMpQwwxRzh1Z3mBN1AaC3pSSRE1\nWSL2VMWqgcau3diZBukagJlZwq71n43ysHPH09QquI7fx9B0k7zFV73e2BO7I4UE\n1gaGAVgMmewnhCEItqfXR3jupjnp/COb6WFVmp+XuBDtHb0jR5eZh4uqreVl7lHW\nKhXclVkz6L/NiOrh/TEvSCVtjSlu4Kchkzk6P5YkcOxREsmznVQ2GMS7+Lgy4ZU/\n7fIp/X1NDCl8fvQxLlFAlamLLEqyEhTNLHSSrSsKQQKBgQDwMDOA8pjd+qIsAcRB\ndHwVjVTHyY9FvxcQsP+geSzsFJQTNqOk5lbGBKj7hrW1ZbJX4knPjsZ0YhaMSW83\nDB7+DlYH+al72TlA9GHLdvJDXy2JCVQrhuo7Iiv+zbSwJgJS4qz7kfdr5OHLybmf\noqSnoCfYPw76dH0z8H6oraS8MQKBgQDv/VpUpCmDpsjAn3dW5NhbwAP8v80USMW3\naG69YTVlOL0rYd/e00pubAR8wGH8zGTQJn4x/fAOR20djcxkcixnIWxRJfFh8QrI\nQnrAuh8hs/3OCxzshMMt+qwGmDaA+D9UY5ZDUCh6MSIRmmWDgBwHFmlF8rvfgF+S\nWP4S1c8fwwKBgQDj3tb+HyqoboAtAAARmVGfoNYuNSuYIBLh4wqiVFQqJdvV3qCi\ncWUhuIoZF1SNJE5u0mD0aaAeCnEZ5xF8SCOfJDq6lkIVHaET3sZpIg/1mva4bAFO\nylCuiVz0AHTMKUNLH4K9qV3zHtKZZGiW6tcLsQYcQrcTJjEidae0oAkKAQKBgHFo\nrlk1QpD+Lfwo34Jmnn+tG7VDBizBvv1PEpXX7B2rVGm91Mc93fyUewJg/20xQarD\npfsF330/76Z5rc8BzU3nE4K9hXYdLFU6ZTvSOIf6wMOvqLl0e6+st8JeB9OmfHbq\noMWqiZZExa6/4Zzk21nWE2WEsZeK2J8WAurvsvN1AoGAN9sC93viAPIYfSMeHk2R\nVFwgGzDzNwxBimEhFC/iY32jUHb26jmRguPOI+XUJjDcbbPmt032QaorfODpAuZI\nJLBfFNBLjcF6zJJCO9WiDpSfGFUiqbbRNnBgBLvTZyqwYiYysTkcE2RPFES/BhoT\n+p5PKWJYDCKVo4wS+UG4/xg=\n-----END PRIVATE KEY-----\n",
+  "private_key_id": "****************",
+  "private_key": "----END PRIVATE KEY-----\n",
   "client_email": "aem-voice-test@aem-voice.iam.gserviceaccount.com",
-  "client_id": "102595374477677745532",
+  "client_id": "***********",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
