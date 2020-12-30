@@ -50,12 +50,12 @@ public class WorkflowPushNotificationEventHandler implements EventHandler{
         if ("com/day/cq/workflow/event".equals((Object)event.getTopic()) && event.getProperty("WorkflowInstanceId") != null) {
             try {
                 this.queue.put((WorkflowEvent)event);
-                logger.debug(" handleEvent: put event [{}] in queue, size now [{}]", event.getProperty("EventType"), this.queue.size());
+                logger.debug("handleEvent: put event [{}] in queue, size now [{}]", event.getProperty("EventType"), this.queue.size());
             }
             catch (InterruptedException ex) {}
         }
         else {
-            logger.debug("bbbb skipping non-workflow event : {}", event.toString());
+            logger.debug("skipping non-workflow event : {}", event.toString());
         }
     }
 
@@ -137,7 +137,7 @@ public class WorkflowPushNotificationEventHandler implements EventHandler{
         }
 
         public void run() {
-            logger.debug("ccccc Processor started");
+            logger.debug("Processor started");
             while (this.isRunning) {
                 try {
                     final WorkflowEvent event = (WorkflowEvent)WorkflowPushNotificationEventHandler.this.queue.take();
@@ -151,7 +151,7 @@ public class WorkflowPushNotificationEventHandler implements EventHandler{
                 }
                 catch (InterruptedException ex) {}
                 catch (Exception e) {
-                    logger.error("Error while sending email.",e);
+                    logger.error("Error while sending notification.",e);
                 }
             }
             logger.debug("Processor done");
