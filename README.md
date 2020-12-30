@@ -9,7 +9,7 @@ b) Notify user when someone sends workflow task in AEM
 
 This OSGI module sends data to Firebase only to save recordes in real time database. After there is another application (https://github.com/sumantapakira/firebase-notification) which sends the notification.
 
-You can download the JAR from here : https://github.com/sumantapakira/aem-firebase/blob/main/core/target/sumanta-android-aem-firebase.core-1.0-SNAPSHOT.jar
+You can download the JAR from here : 
 
 In order to build this, it is bit tricky as Firbase jar uses many jars internally. 
 
