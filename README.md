@@ -7,6 +7,8 @@ In this example, two use cases are shown, however you can implement the way you 
 a) Let the user know whenever there is a package installed in AEM
 b) Notify user when someone sends workflow task in AEM
 
+Demo : https://youtu.be/BOHmYTW4Uzc
+
 This OSGI module sends data to Firebase only to save recordes in real time database. After there is another application (https://github.com/sumantapakira/firebase-notification) which sends the notification.
 
 You can download the JAR from here : https://drive.google.com/file/d/1U7i347CD5_5aVS3SYlurAifYqcjaQTsC/view?usp=sharing
