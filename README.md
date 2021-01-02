@@ -1,4 +1,4 @@
-# aem-firebase
+# aem firebase
 AEM integration with Firebase. 
 Now you will be able to send push notification to end user smart phone from AEM. 
 
