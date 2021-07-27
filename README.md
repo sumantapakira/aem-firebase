@@ -17,6 +17,8 @@ In order to build this, it is bit tricky as Firbase jar uses many jars internall
 
 You have to add this this jars in your 1) .m2/repository/com/google (https://drive.google.com/file/d/1KWlv0hsXantfYRYFniuEhhRD4-lpdbWl/view?usp=sharing) and .m2/repository/io/grpc (https://github.com/sumantapakira/aem-firebase/blob/main/grpc.zip)
 
+# Follow this steps on how to configure
+
 You also need to add service user "firebaseauth" and add sling service user mapping as follows : sumanta.android.aem.firebase.sumanta-android-aem-firebase.core=firebaseauth
 
 Add this into your sling.properties file : sling.bootdelegation.bouncycastle=org.bouncycastle.*
