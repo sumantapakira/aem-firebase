@@ -11,7 +11,7 @@ Demo : https://youtu.be/BOHmYTW4Uzc
 
 This OSGI module sends data to Firebase only to save recordes in real time database. After there is another application (https://github.com/sumantapakira/firebase-notification) which sends the notification.
 
-You can download the JAR from here : https://drive.google.com/file/d/1U7i347CD5_5aVS3SYlurAifYqcjaQTsC/view?usp=sharing
+You can download the JAR from here : https://drive.google.com/file/d/1nI0dqe8CJBWkv1sig8Xzbi-ABrdeWvjP/view?usp=sharing
 
 In order to build this, it is bit tricky as Firbase jar uses many jars internally. 
 
